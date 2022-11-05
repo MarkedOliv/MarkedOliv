@@ -32,6 +32,12 @@ https://henry-commerce.netlify.app/
 ![pf-henrycommerce](https://github.com/MarkedOliv/MarkedOliv/blob/main/PF-HenryCommerce.PNG)
 Is an E-Commerce based on Henry Bootcamp, I've been working in the BackEnd area using MongoDB, Mongoose, NodeJS, JavaScript, JWT, Firebase. I did the authentication using JWT & I did the deploy of the BackEnd
 
+-Personal Portfolio:
+https://oliver-marquez.netlify.app/
+![personal-portfolio](https://github.com/MarkedOliv/MarkedOliv/blob/main/PersonalPorfolio.PNG)
+This is my personal portfolio, the tecnologies I was using ReactJS, SASS, EmailJS, JavaScript.
+You can use it to learn more about me and contact me if you want:D.
+
 <!---
 MarkedOliv/MarkedOliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

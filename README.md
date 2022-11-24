@@ -35,8 +35,15 @@ Is an E-Commerce based on Henry Bootcamp, I've been working in the BackEnd area 
 -Personal Portfolio:
 https://oliver-marquez.netlify.app/
 ![personal-portfolio](https://github.com/MarkedOliv/MarkedOliv/blob/main/PersonalPorfolio.PNG)
-This is my personal portfolio, the tecnologies I was using ReactJS, SASS, EmailJS, JavaScript.
+This is my personal portfolio, the technologies I used were ReactJS, SASS, EmailJS, JavaScript.
 You can use it to learn more about me and contact me if you want:D.
+
+-Task List Manager:
+https://task-list-manager.vercel.app/
+![task-list-manager](https://raw.githubusercontent.com/MarkedOliv/MarkedOliv/main/TaskListManagerHome.PNG)
+Is an application to list your tasks, the technologies I used were ReactJS, Material UI, PostgreSQL, Sequelize, NodeJS, Express, Json Web Token.
+
+
 
 <!---
 MarkedOliv/MarkedOliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

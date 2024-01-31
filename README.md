@@ -22,11 +22,6 @@
 
 ## 📌My Projects
 
--PI(Individual Project):
-https://pi-doggos.vercel.app/
-![pi-doggos](https://github.com/MarkedOliv/MarkedOliv/blob/main/PI-Doggos.jpeg)
-Is an application where you can find information about a lot of dog breeds, You can search, filter by diferents propertys of the dog breeds and even you can create your own dog breed.
-
 -Personal Portfolio:
 https://oliver-marquez.netlify.app/
 ![personal-portfolio](https://github.com/MarkedOliv/MarkedOliv/blob/main/PersonalPorfolio.PNG)

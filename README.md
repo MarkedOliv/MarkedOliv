@@ -36,7 +36,12 @@ It is an application to list your tasks, the technologies I used were ReactJS, M
 -Gifs App:
 https://gifs-app-markedoliv.netlify.app/
 ![gifs-app](https://github.com/MarkedOliv/MarkedOliv/blob/main/GifsAppMarkedOliv.png)
-It is an application I did to practice Angular, the technologies I used were Angular, Bootstrap, HTML, CSS.
+It is an application I did to practice Angular it displays 10 gifs using giphy api, the technologies I used were Angular, Bootstrap, HTML, CSS.
+
+-Countries App:
+https://countries-markedoliv.netlify.app/countries/by-capital
+![countries-app](https://github.com/MarkedOliv/MarkedOliv/blob/main/CountriesAppIMG.png)
+It is an application I did to practice Angular it displays countries by capital, by country name and by region, the technologies I used were Angular, Bootstrap, HTML, CSS.
 
 
 

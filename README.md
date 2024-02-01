@@ -34,7 +34,7 @@ https://task-list-manager.vercel.app/
 It is an application to list your tasks, the technologies I used were ReactJS, Material UI, PostgreSQL, Sequelize, NodeJS, Express, Json Web Token.
 
 -Gifs App:
-https://task-list-manager.vercel.app/
+https://gifs-app-markedoliv.netlify.app/
 ![gifs-app](https://github.com/MarkedOliv/MarkedOliv/blob/main/GifsAppMarkedOliv.png)
 It is an application I did to practice Angular, the technologies I used were Angular, Bootstrap, HTML, CSS.
 
